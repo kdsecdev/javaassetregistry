@@ -24,8 +24,8 @@ public class FixedAssetsRegistry {
 
     // Database configuration
     private static final String DB_URL = "jdbc:mysql://localhost:3306/asset_registry_db";
-    private static final String DB_USER = "root"; // Change as needed
-    private static final String DB_PASSWORD = "ibv882(*v*&VC(9(G979"; // Change as needed
+    private static final String DB_USER = "username"; // Change as needed
+    private static final String DB_PASSWORD = "password"; // Change as needed
 
     // Asset class to represent fixed assets
     static class Asset {
